@@ -1,28 +1,16 @@
-NETSKILLS ACADEMY — FREE WEBSITE PACKAGE
+NETSKILLS ACADEMY WEBSITE UPDATE
 
-Files:
-- index.html: responsive single-page storefront preview.
+Upload BOTH files to the ROOT of your existing GitHub repository:
+- index.html (replace the existing file)
+- NetSkills_Free_Subnetting_Sample.pdf (new file)
 
-IMPORTANT:
-- This is a preview/catalog site, not a functioning checkout.
-- Do not submit it to Whish as an active paid store without telling them checkout is not active.
-- Before public launch, add a real business contact email, policies, final product details, and approved payment integration.
-- Do not put private credentials, API keys, phone OTPs, or wallet PINs in this repository.
+On GitHub:
+1. Open https://github.com/omarberjawi/netskills-academy
+2. Add file > Upload files.
+3. Select both files.
+4. Commit changes to main.
 
-FREE HOSTING WITH GITHUB PAGES:
-1. Sign in to GitHub.
-2. Create a NEW PUBLIC repository named netskills-academy.
-3. Upload index.html to the repository root.
-4. Open Settings > Pages.
-5. Under Build and deployment, choose Deploy from a branch.
-6. Choose branch main and folder /(root), then Save.
-7. Wait for GitHub Pages to publish. The URL will look like:
-   https://YOUR-GITHUB-USERNAME.github.io/netskills-academy/
-8. Test the public URL on mobile and desktop.
+GitHub Pages will publish the update automatically after the commit.
+The sample download link will work only after the PDF is uploaded beside index.html.
 
-GitHub Pages official guide:
-https://docs.github.com/en/pages/quickstart
-
-Whish official FAQ says corporate accounts are for legally registered companies,
-and online businesses must be legally established and properly registered.
-Ask Whish directly about any sole-proprietor or pre-registration route before applying.
+This is still a preview site. Checkout is not enabled and the complete paid product is not advertised as ready for purchase.
